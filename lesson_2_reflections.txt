@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+it creates .git filder for git related files and we need to do it because the folder is a git repository
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It is an intermediate area between working directory and repository. I think this is necessarey for multiple files commits.
